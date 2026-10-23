@@ -1,0 +1,439 @@
+{
+  "schema_version": 1,
+  "source_file": "cleaned.srt",
+  "segment_count": 108,
+  "segments": [
+    {
+      "segment_id": "s000001",
+      "original": "100 rated chess, but you're making a blood sacrifice."
+    },
+    {
+      "segment_id": "s000002",
+      "original": "At the start of the game,"
+    },
+    {
+      "segment_id": "s000003",
+      "original": "your materials may not capture check or mate."
+    },
+    {
+      "segment_id": "s000004",
+      "original": "For each piece to regain those abilities,"
+    },
+    {
+      "segment_id": "s000005",
+      "original": "the pawn originally in front of it must die."
+    },
+    {
+      "segment_id": "s000006",
+      "original": "Well, I mean provided I have already succeeded in a no-capture challenge."
+    },
+    {
+      "segment_id": "s000007",
+      "original": "Way too easy."
+    },
+    {
+      "segment_id": "s000008",
+      "original": "We get a 100 rated American."
+    },
+    {
+      "segment_id": "s000009",
+      "original": "Knight F3."
+    },
+    {
+      "segment_id": "s000010",
+      "original": "Okay so I obviously have to sacrifice pawns to activate the pieces."
+    },
+    {
+      "segment_id": "s000011",
+      "original": "E5 here can activate my king,"
+    },
+    {
+      "segment_id": "s000012",
+      "original": "but I mean I don't need my king to capture or check anything,"
+    },
+    {
+      "segment_id": "s000013",
+      "original": "when do the king gets to give a check anyway."
+    },
+    {
+      "segment_id": "s000014",
+      "original": "Therefore, I'll sack the G pawn instead."
+    },
+    {
+      "segment_id": "s000015",
+      "original": "He doesn't take."
+    },
+    {
+      "segment_id": "s000016",
+      "original": "H5."
+    },
+    {
+      "segment_id": "s000017",
+      "original": "Now he has two choices to capture."
+    },
+    {
+      "segment_id": "s000018",
+      "original": "One activates my Knight the other is my rook."
+    },
+    {
+      "segment_id": "s000019",
+      "original": "Or he can defend his own pawn instead which doesn't even work because of rook's\nopposition, but I cannot do anything about that."
+    },
+    {
+      "segment_id": "s000020",
+      "original": "My pawns cannot capture due to the rules."
+    },
+    {
+      "segment_id": "s000021",
+      "original": "F5 instead."
+    },
+    {
+      "segment_id": "s000022",
+      "original": "Putting up more pawns for him to capture."
+    },
+    {
+      "segment_id": "s000023",
+      "original": "Oh my god just takes something."
+    },
+    {
+      "segment_id": "s000024",
+      "original": "Thank you."
+    },
+    {
+      "segment_id": "s000025",
+      "original": "That activates my Knight."
+    },
+    {
+      "segment_id": "s000026",
+      "original": "Now it can capture and check."
+    },
+    {
+      "segment_id": "s000027",
+      "original": "Knight F6."
+    },
+    {
+      "segment_id": "s000028",
+      "original": "G takes F5."
+    },
+    {
+      "segment_id": "s000029",
+      "original": "Absolutely amazing."
+    },
+    {
+      "segment_id": "s000030",
+      "original": "That activates my Dark Bishop as well."
+    },
+    {
+      "segment_id": "s000031",
+      "original": "Bishop H6."
+    },
+    {
+      "segment_id": "s000032",
+      "original": "Well in a perfect world I would have already activated my queen by now,"
+    },
+    {
+      "segment_id": "s000033",
+      "original": "but it is unfortunately real life where AIs are called SIs."
+    },
+    {
+      "segment_id": "s000034",
+      "original": "Knight F3."
+    },
+    {
+      "segment_id": "s000035",
+      "original": "H4."
+    },
+    {
+      "segment_id": "s000036",
+      "original": "Hanging the pawn to the Knight."
+    },
+    {
+      "segment_id": "s000037",
+      "original": "Rock G1 instead."
+    },
+    {
+      "segment_id": "s000038",
+      "original": "Okay well then I have nothing else to do on that side."
+    },
+    {
+      "segment_id": "s000039",
+      "original": "D5."
+    },
+    {
+      "segment_id": "s000040",
+      "original": "Let's try to sack some pawns on this side too."
+    },
+    {
+      "segment_id": "s000041",
+      "original": "We'll prioritize activating the queen."
+    },
+    {
+      "segment_id": "s000042",
+      "original": "Rock G6."
+    },
+    {
+      "segment_id": "s000043",
+      "original": "D4."
+    },
+    {
+      "segment_id": "s000044",
+      "original": "Well that rook move is kind of suspicious and if he takes one of these pieces I won't be\nable to recapture due to the rules."
+    },
+    {
+      "segment_id": "s000045",
+      "original": "But I mean it just cannot get any more obvious than the fact that these two pieces are\ndefended by the most obvious defending patterns ever in the history of humanity."
+    },
+    {
+      "segment_id": "s000046",
+      "original": "Right?"
+    },
+    {
+      "segment_id": "s000047",
+      "original": "Of course."
+    },
+    {
+      "segment_id": "s000048",
+      "original": "Okay but I don't want to take that bishop."
+    },
+    {
+      "segment_id": "s000049",
+      "original": "I have only activated two pieces so there's no way I'm trading off one of them."
+    },
+    {
+      "segment_id": "s000050",
+      "original": "Bishop F8 instead."
+    },
+    {
+      "segment_id": "s000051",
+      "original": "Best move by the way."
+    },
+    {
+      "segment_id": "s000052",
+      "original": "Sometimes going back to your exes is actually the better choice."
+    },
+    {
+      "segment_id": "s000053",
+      "original": "I'm talking about the squares."
+    },
+    {
+      "segment_id": "s000054",
+      "original": "Queen D2."
+    },
+    {
+      "segment_id": "s000055",
+      "original": "C5."
+    },
+    {
+      "segment_id": "s000056",
+      "original": "My D pawn is blocked."
+    },
+    {
+      "segment_id": "s000057",
+      "original": "I'll try to make the way open again."
+    },
+    {
+      "segment_id": "s000058",
+      "original": "Queen G5."
+    },
+    {
+      "segment_id": "s000059",
+      "original": "Very aggressive."
+    },
+    {
+      "segment_id": "s000060",
+      "original": "C4."
+    },
+    {
+      "segment_id": "s000061",
+      "original": "Now I'm genuinely curious if my king can survive if he sacks his rook though,"
+    },
+    {
+      "segment_id": "s000062",
+      "original": "but I know he's not gonna do it so we probably will never know."
+    },
+    {
+      "segment_id": "s000063",
+      "original": "Dxc4."
+    },
+    {
+      "segment_id": "s000064",
+      "original": "That activates my light bishop."
+    },
+    {
+      "segment_id": "s000065",
+      "original": "D3."
+    },
+    {
+      "segment_id": "s000066",
+      "original": "He takes D3."
+    },
+    {
+      "segment_id": "s000067",
+      "original": "Oh my god it's suddenly becoming so convenient."
+    },
+    {
+      "segment_id": "s000068",
+      "original": "B5."
+    },
+    {
+      "segment_id": "s000069",
+      "original": "How about taking this one too?"
+    },
+    {
+      "segment_id": "s000070",
+      "original": "Nevermind."
+    },
+    {
+      "segment_id": "s000071",
+      "original": "Okay it seems like he's starting to attack."
+    },
+    {
+      "segment_id": "s000072",
+      "original": "I have to make my own aggressive moves too."
+    },
+    {
+      "segment_id": "s000073",
+      "original": "Queen D4."
+    },
+    {
+      "segment_id": "s000074",
+      "original": "Bishop F4."
+    },
+    {
+      "segment_id": "s000075",
+      "original": "Queen takes B2."
+    },
+    {
+      "segment_id": "s000076",
+      "original": "This feels so greedy but I still have to do it."
+    },
+    {
+      "segment_id": "s000077",
+      "original": "Knight D2."
+    },
+    {
+      "segment_id": "s000078",
+      "original": "Yes exactly."
+    },
+    {
+      "segment_id": "s000079",
+      "original": "Get tunnel vision on my queen please."
+    },
+    {
+      "segment_id": "s000080",
+      "original": "Queen takes A1 check."
+    },
+    {
+      "segment_id": "s000081",
+      "original": "King E2."
+    },
+    {
+      "segment_id": "s000082",
+      "original": "Bishop B7."
+    },
+    {
+      "segment_id": "s000083",
+      "original": "I mean this bishop was also activated so maybe I'll try using it."
+    },
+    {
+      "segment_id": "s000084",
+      "original": "After losing too many pawns our position is so bad that it is difficult to come up with\nanything."
+    },
+    {
+      "segment_id": "s000085",
+      "original": "rook G8."
+    },
+    {
+      "segment_id": "s000086",
+      "original": "Aha."
+    },
+    {
+      "segment_id": "s000087",
+      "original": "That blunder's a rook but my rook cannot capture as my H pawn is still alive."
+    },
+    {
+      "segment_id": "s000088",
+      "original": "Knight takes G8 instead."
+    },
+    {
+      "segment_id": "s000089",
+      "original": "On second thought maybe this is just a rook trade."
+    },
+    {
+      "segment_id": "s000090",
+      "original": "He's gonna take my rook back soon enough."
+    },
+    {
+      "segment_id": "s000091",
+      "original": "Queen G6 check."
+    },
+    {
+      "segment_id": "s000092",
+      "original": "King D8."
+    },
+    {
+      "segment_id": "s000093",
+      "original": "Knight F7 check."
+    },
+    {
+      "segment_id": "s000094",
+      "original": "King C8."
+    },
+    {
+      "segment_id": "s000095",
+      "original": "Knight takes H8."
+    },
+    {
+      "segment_id": "s000096",
+      "original": "That is completely fine."
+    },
+    {
+      "segment_id": "s000097",
+      "original": "I mean that rook wasn't activated so the trade mathematically benefits me."
+    },
+    {
+      "segment_id": "s000098",
+      "original": "Knight F6."
+    },
+    {
+      "segment_id": "s000099",
+      "original": "Preventing Queen E8 check made in 1."
+    },
+    {
+      "segment_id": "s000100",
+      "original": "Queen F7."
+    },
+    {
+      "segment_id": "s000101",
+      "original": "Knight Bd7."
+    },
+    {
+      "segment_id": "s000102",
+      "original": "Defending the bishop I mean this Knight cannot capture but he doesn't know about that."
+    },
+    {
+      "segment_id": "s000103",
+      "original": "No."
+    },
+    {
+      "segment_id": "s000104",
+      "original": "No."
+    },
+    {
+      "segment_id": "s000105",
+      "original": "No."
+    },
+    {
+      "segment_id": "s000106",
+      "original": "Knight E8 is forced."
+    },
+    {
+      "segment_id": "s000107",
+      "original": "Please don't."
+    },
+    {
+      "segment_id": "s000108",
+      "original": "What the f-"
+    }
+  ]
+}

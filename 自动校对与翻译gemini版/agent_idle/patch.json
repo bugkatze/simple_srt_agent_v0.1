@@ -1,0 +1,62 @@
+{
+  "actions": [
+    {
+      "action": "update",
+      "target_ids": [
+        "s000001"
+      ],
+      "text": "100 rated chess, but you're making a blood sacrifice."
+    },
+    {
+      "action": "update",
+      "target_ids": [
+        "s000005"
+      ],
+      "text": "the pawn originally in front of it must die."
+    },
+    {
+      "action": "update",
+      "target_ids": [
+        "s000011"
+      ],
+      "text": "E5 here can activate my king,"
+    },
+    {
+      "action": "merge",
+      "target_ids": [
+        "s000019",
+        "s000020"
+      ],
+      "text": "Or he can defend his own pawn instead which doesn't even work because of rook's opposition, but I cannot do anything about that."
+    },
+    {
+      "action": "merge",
+      "target_ids": [
+        "s000047",
+        "s000048"
+      ],
+      "text": "But I mean it just cannot get any more obvious than the fact that these two pieces are defended by the most obvious defending patterns ever in the history of humanity."
+    },
+    {
+      "action": "update",
+      "target_ids": [
+        "s000064"
+      ],
+      "text": "Now I'm genuinely curious if my king can survive if he sacks his rook though,"
+    },
+    {
+      "action": "update",
+      "target_ids": [
+        "s000067"
+      ],
+      "text": "That activates my light bishop."
+    },
+    {
+      "action": "update",
+      "target_ids": [
+        "s000105"
+      ],
+      "text": "Knight bd7."
+    }
+  ]
+}

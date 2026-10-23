@@ -1,0 +1,64 @@
+{
+  "actions": [
+    {
+      "action": "update",
+      "target_ids": ["s000001"],
+      "text": "100 rated chess, but you're making a blood sacrifice."
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000005"],
+      "text": "the pawn originally in front of it must die."
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000011"],
+      "text": "E5 here can activate my king,"
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000013"],
+      "text": "when do the king gets to give a check anyway."
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000064"],
+      "text": "Now I'm genuinely curious if my king can survive if he sacks his rook though,"
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000067"],
+      "text": "That activates my light bishop."
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000105"],
+      "text": "Knight Bd7."
+    },
+    {
+      "action": "update",
+      "target_ids": ["s000112"],
+      "text": "What the f-"
+    },
+    {
+      "action": "merge",
+      "target_ids": ["s000019", "s000020"],
+      "text": "Or he can defend his own pawn instead which doesn't even work because of rook's\nopposition, but I cannot do anything about that."
+    },
+    {
+      "action": "merge",
+      "target_ids": ["s000045", "s000046"],
+      "text": "Well that rook move is kind of suspicious and if he takes one of these pieces I won't be\nable to recapture due to the rules."
+    },
+    {
+      "action": "merge",
+      "target_ids": ["s000047", "s000048"],
+      "text": "But I mean it just cannot get any more obvious than the fact that these two pieces are\ndefended by the most obvious defending patterns ever in the history of humanity."
+    },
+    {
+      "action": "merge",
+      "target_ids": ["s000087", "s000088"],
+      "text": "After losing too many pawns our position is so bad that it is difficult to come up with\nanything."
+    }
+  ]
+}
